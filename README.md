@@ -1,6 +1,6 @@
 <!-- 🟢 EMERALD NEON HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=900&lines=Hey+I'm+Omji;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver" />
 </h1>
 
 <p align="center">
